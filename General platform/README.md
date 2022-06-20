@@ -22,7 +22,7 @@
 
 ### `Family Song` 系列
 
->   蓝奏云下载：https://wws.lanzouo.com/ieIXtyzocmh
+>   蓝奏云下载：https://wwu.lanzouh.com/i96gX06m5s0h （2022.6.20更新）
 
 　_**临时说明一下，Typora-Latex-Theme里面我还没有把这个字体写进去，怕出问题，你们安装之后要自己改一下css。这个是我自己打包的字体，目前还算在测试阶段，可能有各种问题出现，这里不对这些问题负责。请谨慎使用。**_
  
